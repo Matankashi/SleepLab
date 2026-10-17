@@ -1,0 +1,8 @@
+.DS_Store
+.firebase/
+node_modules/
+.env
+*-debug.log
+
+# Brief and spec hold personal health details; the repo is public.
+private/
