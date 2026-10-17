@@ -1,6 +1,6 @@
 # SleepLab
 
-**Version: v1.0 (in progress)**
+**Version: v1.0**
 
 A personal sleep diary in Hebrew, based on clinical sleep-diary methods (the Consensus Sleep
 Diary). Each night has a short evening entry and a morning entry. The app computes the standard

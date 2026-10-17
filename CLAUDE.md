@@ -1,6 +1,6 @@
 # SleepLab
 
-**Version: v1.0 (in progress, not tagged)**
+**Version: v1.0**
 
 A personal sleep diary built on clinical sleep-diary methods (Consensus Sleep Diary): a one-time
 sleep profile, a short evening diary and a morning diary, a metrics engine
@@ -96,5 +96,6 @@ Repo conventions:
 ## Status
 
 2026-10-17: built and tested locally (engine 59/59, rules 99/99, UI walk-through on the emulator).
-Owner UID set in `firestore.rules`. Open: rules deploy, push, Pages, live check by the user, then
-tag `v1.0` and the registry row.
+Rules deployed and `main` pushed; Pages live. 2026-10-17: the user checked the live site on the
+phone (sign-in, profile, evening + morning entry, edit, CSV export), then `v1.0` was tagged and the
+SleepLab row added to `~/app-registry`.
